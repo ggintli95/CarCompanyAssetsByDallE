@@ -1,0 +1,18 @@
+﻿SoftwareComponentKey;ShortName;Name;ShortDescription
+1;BMS;Battery Management System;Monitors and controls the performance, health, and charging/discharging of the traction battery.
+2;MCU;Motor Control Unit;Regulates the electric motor's speed, torque, and power output for efficient and safe operation.
+3;PCM;Powertrain Control Module;Manages the overall functioning of the electric powertrain, integrating various components for optimal performance.
+4;VCU;Vehicle Control Unit;Acts as the central brain, coordinating various subsystems like motor, battery, and brakes for smooth driving and safety.
+5;IS;Infotainment System;Provides entertainment, navigation, connectivity, and sometimes energy consumption data for the driver and passengers.
+6;OBD;Onboard Diagnostics;Monitors and reports the vehicle's performance, health, and any potential issues.
+7;CCS;Charging Control System;Ensures safe and efficient charging of the battery, managing communication between the vehicle and the charging infrastructure.
+8;HMI;Human-Machine Interface;Enables interaction between the driver and the vehicle, typically through a touchscreen or voice commands.
+9;SS;Safety Systems;Includes electronic stability control (ESC), anti-lock braking system (ABS), and other safety features for collision avoidance and driver assistance.
+10;FSU;Firmware and Software Updates;Allows for the installation of new features, bug fixes, and performance improvements over the vehicle's lifetime.
+11;ECA;Energy Consumption Analysis;Energy Consumption Analysis is a process of assessing and evaluating the usage of energy within a specific system
+12;FSG;Family Security Guard;Contains algorithms to help your family drive safely.
+13;PW;Pet Watcher;Contains algorithms to help your pet enjoy the waiting time.
+14;OTA;Super fast Over-The-Air Updates;Contains multiple optimizations to upgrade your vehicle even faster.
+15;RD;Remote Diagnostic;Capability to run diagnostics over the air.
+16;GPT4;GPT 4.0 Assistance;AI Assistance functionality.
+17;AECA;Advanced Energy Consumption Analysis;Contains multiple algorithms and analytics techniques, which helps the driver to optimize the consumption.

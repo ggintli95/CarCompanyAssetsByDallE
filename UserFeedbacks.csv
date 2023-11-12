@@ -1,0 +1,53 @@
+﻿CarTypeKey;UserFeedback;RecognizedMood;RecognizedMoodValue;RecognizedMainTopic
+1;Disappointed with the range of this electric hatchback. It barely covers enough distance for my daily needs.;negative;-1;battery
+3;Driving this SUV feels like the future is here. I can't get enough of it!;positive;1;car
+1;I appreciate the effort put into the hatchback's aerodynamics. It definitely contributes to the impressive energy efficiency.;positive;1;efficiency
+3;I expected more cargo space for an SUV of this size. Disappointed with the storage.;negative;-1;cargo
+1;I experienced some issues with the infotainment system in the electric hatchback. It tends to lag and freeze occasionally.;negative;-1;infotainment
+1;I'm loving the advanced tech in this electric hatchback. The touchscreen interface and voice commands are so convenient.;positive;1;cabin
+3;I'm loving the eco-friendly aspect of this SUV. Proud to be driving green!;positive;1;sustainability
+2;Impressive acceleration and handling – this coupe is a joy to drive!;positive;1;handling
+3;Impressive range and quick charging. Perfect for my daily commute.;positive;1;charging
+1;Kudos to the hatchback's safety features! With its collision detection and lane departure warning, I feel much safer on the road.;positive;1;safety
+2;The acceleration is good, but I expected a bit more punch from an electric coupe.;neutral;0;experience
+3;The acceleration is good, but it could be more impressive considering it's electric.;neutral;0;experience
+1;The build quality of the electric hatchback feels a bit flimsy. I expected better materials for the price.;negative;-1;experience
+3;The cabin is spacious and comfortable, making long trips enjoyable.;positive;1;cabin
+2;The charging infrastructure for electric coupes in my area is lacking, making long trips challenging.;negative;-1;charging
+1;The charging time for the hatchback's battery is acceptable, but it would be nice if it could be improved in future models.;neutral;0;charging
+1;The compact size of this electric hatchback makes it a breeze to park and maneuver in crowded city streets.;positive;1;handling
+2;The coupe's design is a matter of personal taste – some may love it, others not so much.;neutral;0;design
+2;The coupe's ride comfort is decent, though it can be a bit stiff on rough roads.;negative;-1;experience
+1;The design of the electric hatchback seems decent, but I'd like to see more color options to choose from.;neutral;0;design
+2;The eco-friendly aspect of this coupe makes me feel good about driving in style and going green.;positive;1;sustainability
+2;The electric powertrain adds a whole new level of excitement to the coupe driving experience.;positive;1;experience
+3;The electric SUV's handling is not as precise as I'd hoped, especially in tight corners.;neutral;0;handling
+3;The exterior design is a matter of personal preference, some may find it appealing.;neutral;0;design
+2;The futuristic design and advanced tech features make this electric coupe stand out from the crowd.;positive;1;design
+1;The handling on this electric hatchback is surprisingly agile and responsive. Makes driving fun!;positive;1;handling
+3;The infotainment system offers standard features but lacks some advanced options.;neutral;0;infotainment
+2;The infotainment system provides standard features but lacks some cutting-edge options.;neutral;0;infotainment
+3;The instant torque of the electric motor is exhilarating. It accelerates like a dream!;positive;1;motor
+2;The interior feels a bit cramped, and the materials could be more premium for the price.;negative;-1;cabin
+3;The interior materials could be of better quality, they feel a bit cheap.;negative;-1;cabin
+1;The interior space is adequate in the electric hatchback, but I wish there was a bit more legroom for taller passengers.;neutral;0;cabin
+3;The limited charging infrastructure in my area is a real drawback for this electric SUV.;negative;-1;charging
+3;The navigation system can be glitchy at times, causing frustration during trips.;negative;-1;infotainment
+2;The price point of this electric coupe is higher than expected, putting it out of my budget.;negative;-1;price
+3;The price tag is quite steep compared to traditional SUVs with similar features.;negative;-1;price
+1;The price tag on this electric hatchback is way too high for the features it offers. Not worth the investment.;negative;-1;price
+2;The range could be better, I find myself worrying about battery life during longer drives.;negative;-1;battery
+3;The range falls short for longer trips, making me anxious about running out of charge.;negative;-1;charging
+3;The regenerative braking system is fantastic, maximizing efficiency and range.;positive;1;efficiency
+2;The regenerative braking system not only boosts efficiency but also adds a fun element to driving.;positive;1;efficiency
+1;The regenerative braking system on this electric hatchback is fantastic! It's a great way to boost the overall range.;positive;1;efficiency
+3;The ride comfort is decent, neither exceptional nor uncomfortable.;negative;-1;experience
+2;The seamless torque delivery of the electric motor ensures a smooth and exhilarating ride.;positive;1;motor
+3;The sleek design and futuristic features make this electric SUV stand out on the road.;neutral;0;design
+2;The warranty and maintenance coverage are on par with other similar vehicles in the market.;neutral;0;service
+3;The warranty and maintenance coverage are standard, nothing extraordinary.;neutral;0;service
+1;The warranty coverage for the electric hatchback is standard, but it could be extended to attract more buyers.;neutral;0;service
+2;This electric coupe is a head-turner! Sleek and stylish, it's a showstopper on the streets.;positive;1;car
+1;This electric hatchback is a game-changer! Smooth acceleration and eco-friendly features make it a perfect choice for daily commutes.;positive;1;experience
+3;This electric SUV is a game-changer! So smooth and quiet, I love it!;positive;1;car
+2;The limited rear passenger space is a downside for this electric coupe. Not ideal for family trips.;negative;-1;cabin

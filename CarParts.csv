@@ -1,0 +1,23 @@
+﻿CarPartKey;CarPartGeneration;CarPartName;CarPartDescription
+1;Gen1;Traction battery pack;High-capacity energy storage unit powering electric vehicles.
+2;Gen1;DC-DC Converter;Device that adjusts electric voltage for efficient power distribution.
+3;Gen1;Electric motor;"The heart of an EV, converting electrical energy into mechanical power."
+4;Gen1;Power inverter;Transforms DC electricity from the battery to AC for motor operation.
+5;Gen1;Charge Port;Access point for connecting the EV to an external power source for charging.
+6;Gen1;Onboard charger;Integrated system converting AC power to DC for the traction battery.
+7;Gen1;Controller;"Manages the electric motor's speed, power output and overall vehicle performance."
+8;Gen1;Auxiliary batteries;Additional batteries supporting non-traction systems in the car.
+9;Gen1;Thermal system (cooling);"Ensures optimal temperature regulation for components, enhancing efficiency and lifespan."
+10;Gen1;Transmission;Mechanism responsible for transmitting power from the motor to the wheels.
+11;Gen1;Windshild;Front glass providing visibility and protection to passengers from the wind and elements.
+12;Gen2;Traction battery pack;High-capacity energy storage unit powering electric vehicles.
+13;Gen2;DC-DC Converter;Device that adjusts electric voltage for efficient power distribution.
+14;Gen2;Electric motor;"The heart of an EV, converting electrical energy into mechanical power."
+15;Gen2;Power inverter;Transforms DC electricity from the battery to AC for motor operation.
+16;Gen2;Charge Port;Access point for connecting the EV to an external power source for charging.
+17;Gen2;Onboard charger;Integrated system converting AC power to DC for the traction battery.
+18;Gen2;Controller;"Manages the electric motor's speed, power output and overall vehicle performance."
+19;Gen2;Auxiliary batteries;Additional batteries supporting non-traction systems in the car.
+20;Gen2;Thermal system (cooling);"Ensures optimal temperature regulation for components, enhancing efficiency and lifespan."
+21;Gen2;Transmission;Mechanism responsible for transmitting power from the motor to the wheels.
+22;Gen2;Windshild;Front glass providing visibility and protection to passengers from the wind and elements.
